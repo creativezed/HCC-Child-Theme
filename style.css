@@ -6,16 +6,12 @@ Author: Zeeshan Shaikh
 Author URI: http://www.zeeshaikh.com
 Description: Ippo is a clean, responsive theme for all creatives, especially interior designers and fashion bloggers. Ippo puts your photos and lifestyle mood boards front and center.
 Tags: blog,portfolio,photography,translation-ready,theme-options,sticky-post,post-formats,footer-widgets,featured-images,custom-menu,custom-colors,custom-background,grid-layout,right-sidebar,two-columns,three-columns,four-columns
-Version: 0.0.3
+Version: 0.0.1
 Updated: 2017-05-15 19:52:39
 
 */
 
 /* GLOBAL */
-
-body {
-    background: red !important;
-}
 
 /* Header */
 .fullwidth-slider .site-header {
