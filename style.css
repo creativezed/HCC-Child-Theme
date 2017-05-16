@@ -17,3 +17,12 @@ Updated: 2017-05-15 19:52:39
 .fullwidth-slider .site-header {
     background: rgba(255, 255, 255, 0.85);
 }
+
+@media screen and (min-width: 1000px) {
+    .fullwidth-slider.standard-menu .main-navigation ul ul {
+        background: rgba(255,255,255, 0.90);
+    }
+}
+/* END .site-header */
+
+/* END GLOBAL */
